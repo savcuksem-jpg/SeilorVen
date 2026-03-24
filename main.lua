@@ -1,4 +1,5 @@
--- SeilorVen - Sailor Piece Script
+-- SeilorVen - Sailor Piece Script 
+-- giving source cuz too big and too lazy for custom server
 
 if getgenv().SeilorVen_Running then
     warn("Script already running!")
